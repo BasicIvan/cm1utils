@@ -23,7 +23,9 @@ Data, figures, and exploratory notebooks are kept in a separate project director
 
 ## Author
 Ivan Bašić
-PhD researcher in atmospheric modeling and boundary-layer processes
-Goethe Universtiy Frankfurt
-Institute for Atmospheric and Environmental Sciences
 
+PhD researcher in atmospheric modeling and boundary-layer processes
+
+Goethe Universtiy Frankfurt
+
+Institute for Atmospheric and Environmental Sciences
