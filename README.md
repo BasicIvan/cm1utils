@@ -6,12 +6,13 @@ This package contains reusable utilities developed during my PhD for working wit
 
 ---
 
-## Structure
+## Package layout
 
-cm1utils/
-├── tools/        # Core utilities (math, plotting, data handling)  
-└── workflows/    # Higher-level workflows for CM1 analysis and preprocessing  
-
+```
+cm1utils
+├── tools        # low-level utilities
+└── workflows    # CM1 analysis routines
+```
 The `tools` module contains general-purpose helper functions, while `workflows` provides higher-level routines tailored to common CM1 analysis tasks.
 
 ---
